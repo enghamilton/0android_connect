@@ -7,7 +7,7 @@
 $servername = "localhost";
 $database = "id6312982_pizzaria_db";
 $username = "id6312982_pizzaria_user";
-$password = "qweewq123321";
+$password = "secret";
 
 /*
  * Following code will get single product details
