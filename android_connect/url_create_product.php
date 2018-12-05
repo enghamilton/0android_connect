@@ -2,7 +2,7 @@
 $servername = "localhost";
 $database = "id6312982_pizzaria_db";
 $username = "id6312982_pizzaria_user";
-$password = "qweewq123321";
+$password = "secret";
 /*
  * Following code will create a new product row
  * All product details are read from HTTP Post Request
